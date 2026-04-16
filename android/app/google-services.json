@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501448448370",
+    "firebase_url": "https://steam-cd3ef-default-rtdb.firebaseio.com",
+    "project_id": "steam-cd3ef",
+    "storage_bucket": "steam-cd3ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501448448370:android:35cadb3773a919fb6f65eb",
+        "android_client_info": {
+          "package_name": "com.example.demo_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8UYs5t0v8JwG0sSQVCvznwOz0LPwqzIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
